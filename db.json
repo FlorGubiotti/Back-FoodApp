@@ -1,5 +1,5 @@
 {
-  "foods": [
+  "foodsEspaniol": [
     {
       "id": 1,
       "nombre": "GRANDES",
@@ -481,7 +481,7 @@
       "categoria_id": 15
     }
   ],
-  "categories": [
+  "categoriesEspaniol": [
     {
       "id": 1,
       "nombre": "Papas Fritas",
@@ -555,6 +555,1124 @@
     {
       "id": 15,
       "nombre": "Cervezas",
+      "icono": "https://cdn-icons-png.flaticon.com/128/1087/1087972.png"
+    }
+  ],
+  "foodsEnglish": [
+    {
+      "id": 1,
+      "nombre": "LARGE",
+      "descripcion": "The classic ones, recommended beer to accompany: Mexican Lager/Juicy IPA",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18575.jpg",
+      "precio": "$4800.00",
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Cheddar and bacon",
+      "descripcion": "Recommended beer to accompany: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18580.jpg",
+      "precio": "$6100.00",
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "BRADER",
+      "descripcion": "with mozzarella cheese, bacon, and scrambled egg. Recommended beer to accompany: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18581.jpg",
+      "precio": "$6000.00",
+      "categoria_id": 1
+    },
+    {
+      "id": 4,
+      "nombre": "lemondrop",
+      "descripcion": "cheddar and spring onion. Recommended beer to accompany: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18576.jpg",
+      "precio": "$6000.00",
+      "categoria_id": 1
+    },
+    {
+      "id": 5,
+      "nombre": "green onions",
+      "descripcion": "with spring onion cream. Recommended beer to accompany: mexican lager/hoppy lager",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18577.jpg",
+      "precio": "$5100.00",
+      "categoria_id": 1
+    },
+    {
+      "id": 6,
+      "nombre": "hops potatoes",
+      "descripcion": "provolone, pategrás, sardo, mozzarella, white sauce, and bits of raw ham. Recommended beer to accompany: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18582.jpg",
+      "precio": "$6100.00",
+      "categoria_id": 1
+    },
+    {
+      "id": 7,
+      "nombre": "railway",
+      "descripcion": "with sautéed peppers and onions, mozzarella cheese, and scrambled egg. Recommended beer to accompany: old ale/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18578.jpg",
+      "precio": "$5300.00",
+      "categoria_id": 1
+    },
+    {
+      "id": 8,
+      "nombre": "hotdog and fries",
+      "descripcion": "with sausages, caramelized onions, cheddar, and barbecue sauce. Recommended beer to accompany: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18579.jpg",
+      "precio": "$6100.00",
+      "categoria_id": 1
+    },
+    {
+      "id": 9,
+      "nombre": "mozzarella sticks",
+      "descripcion": "with garlic lactonesa and barbecue sauce. Recommended beer to accompany: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18987.jpg",
+      "precio": "$5300.00",
+      "categoria_id": 2
+    },
+    {
+      "id": 10,
+      "nombre": "crispy chicken fingers",
+      "descripcion": "with barbecue and honey mustard sauce. Recommended beer to accompany: old barrel/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18988.jpg",
+      "precio": "$4400.00",
+      "categoria_id": 2
+    },
+    {
+      "id": 11,
+      "nombre": "brader empanada",
+      "descripcion": "blue cheese, pategras, provolone, sardo, and spring onion. Recommended beer to accompany: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18620.jpg",
+      "precio": "$1400.00",
+      "categoria_id": 2
+    },
+    {
+      "id": 12,
+      "nombre": "meat empanada",
+      "descripcion": "Recommended beer to accompany: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18621.jpg",
+      "precio": "$1400.00",
+      "categoria_id": 2
+    },
+    {
+      "id": 13,
+      "nombre": "ham and cheese empanada",
+      "descripcion": "Recommended beer to accompany: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18619.jpg",
+      "precio": "$1400.00",
+      "categoria_id": 2
+    },
+    {
+      "id": 14,
+      "nombre": "serrano",
+      "descripcion": "raw ham, arugula, and cheese flakes. Recommended beer to accompany: mexican lager",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18627.jpg",
+      "precio": "$4200.00",
+      "categoria_id": 3
+    },
+    {
+      "id": 15,
+      "nombre": "chicken",
+      "descripcion": "sautéed chicken with peppers and olives. Recommended beer to accompany: mexican lager/old ale/old barrel/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18626.jpg",
+      "precio": "$3900.00",
+      "categoria_id": 3
+    },
+    {
+      "id": 16,
+      "nombre": "egg and avocado",
+      "descripcion": "avocado cream, scrambled egg, mozzarella, bacon, and olive oil. Recommended beer to accompany: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18628.jpg",
+      "precio": "$5300.00",
+      "categoria_id": 3
+    },
+    {
+      "id": 17,
+      "nombre": "mozzarella",
+      "descripcion": "tomato sauce, mozzarella cheese, and olives. Recommended beer to accompany: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18583.jpg",
+      "precio": "$6800.00",
+      "categoria_id": 4
+    },
+    {
+      "id": 18,
+      "nombre": "special",
+      "descripcion": "tomato sauce, mozzarella cheese, cooked ham, bell peppers, and olives. Recommended beer to accompany: mexican lager/old ale/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18585.jpg",
+      "precio": "$8200.00",
+      "categoria_id": 4
+    },
+    {
+      "id": 19,
+      "nombre": "four cheese",
+      "descripcion": "tomato sauce, mozzarella cheese, sardo, blue, provolone, pategrás, and olives. Recommended beer to accompany: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18586.jpg",
+      "precio": "$7400.00",
+      "categoria_id": 4
+    },
+    {
+      "id": 20,
+      "nombre": "mediterranean",
+      "descripcion": "tomato sauce, mozzarella cheese, raw ham, cheese flakes, arugula, and olives. Recommended beer to accompany: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18587.jpg",
+      "precio": "$8300.00",
+      "categoria_id": 4
+    },
+    {
+      "id": 21,
+      "nombre": "fugazza",
+      "descripcion": "mozzarella, onion, olive, and olives. Recommended beer to accompany: mexican lager/old ale/old barrel",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/19961.jpg",
+      "precio": "$7400.00",
+      "categoria_id": 4
+    },
+    {
+      "id": 22,
+      "nombre": "caprese",
+      "descripcion": "mozzarella, tomato, olive, basil, and olives. Recommended beer to accompany: mexican lager/old ale",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/19962.jpg",
+      "precio": "$7400.00",
+      "categoria_id": 4
+    },
+    {
+      "id": 23,
+      "nombre": "brader pizza",
+      "descripcion": "mozzarella, blue cheese, pesto, and olives. Recommended beer to accompany: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/19963.jpg",
+      "precio": "$7900.00",
+      "categoria_id": 4
+    },
+    {
+      "id": 24,
+      "nombre": "serrano",
+      "descripcion": "arugula, sliced ​​tomato, raw ham, and cheese flakes. Recommended beer to accompany: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18618.jpg",
+      "precio": "$5300.00",
+      "categoria_id": 5
+    },
+    {
+      "id": 25,
+      "nombre": "frodo",
+      "descripcion": "beef or chicken, mozzarella cheese, bacon, avocado cream, lettuce, and tomato. Recommended beer to accompany: mexican lager/juicy ipa. comes with fries",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18594.jpg",
+      "precio": "$10000.00",
+      "categoria_id": 6
+    },
+    {
+      "id": 26,
+      "nombre": "gollum",
+      "descripcion": "beef or chicken, cooked ham, tybo cheese, egg, criolla sauce, lettuce, and tomato. Recommended beer to accompany: mexican lager/old ale. comes with fries",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18588.jpg",
+      "precio": "$9000.00",
+      "categoria_id": 6
+    },
+    {
+      "id": 27,
+      "nombre": "sauron",
+      "descripcion": "beef or chicken, blue cheese, pategrás, provolone, sardo, tybo, egg, tomato sauce, and arugula. Recommended beer to accompany: juicy ipa. comes with fries",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18590.jpg",
+      "precio": "$9000.00",
+      "categoria_id": 6
+    },
+    {
+      "id": 28,
+      "nombre": "pipin",
+      "descripcion": "beef or chicken, tybo cheese, bacon, egg, tomato sauce, lettuce, and sautéed peppers. Recommended beer to accompany: old ale. comes with fries",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18592.jpg",
+      "precio": "$9000.00",
+      "categoria_id": 6
+    },
+    {
+      "id": 29,
+      "nombre": "calypso",
+      "descripcion": "beef, cheddar, caramelized onion, egg, bacon, and arugula. Recommended beer to accompany: old ale",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/19965.jpg",
+      "precio": "$9000.00",
+      "categoria_id": 6
+    },
+    {
+      "id": 30,
+      "nombre": "brader",
+      "descripcion": "double meat patty, blue cheese, avocado cream, and criolla sauce. Recommended beer to accompany: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18605.jpg",
+      "precio": "$6400.00",
+      "categoria_id": 7
+    },
+    {
+      "id": 31,
+      "nombre": "american brader",
+      "descripcion": "double meat patty, cheddar, and bacon. Recommended beer to accompany: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18601.jpg",
+      "precio": "$6400.00",
+      "categoria_id": 7
+    },
+    {
+      "id": 32,
+      "nombre": "thorin",
+      "descripcion": "double meat patty, cooked ham, tybo cheese, avocado cream, tomato, and onion. Recommended beer to accompany: mexican lager/old barrel/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18603.jpg",
+      "precio": "$6400.00",
+      "categoria_id": 7
+    },
+    {
+      "id": 33,
+      "nombre": "la 4:20",
+      "descripcion": "double meat patty, cheddar cheese, bacon, purple onion rings, and tomato. Recommended beer to accompany: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18603.jpg",
+      "precio": "$6400.00",
+      "categoria_id": 7
+    },
+    {
+      "id": 34,
+      "nombre": "galaxy",
+      "descripcion": "double meat patty, galaxy sauce, onion rings, cheddar, and bacon. Recommended beer to accompany: old ale/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18598.jpg",
+      "precio": "$6400.00",
+      "categoria_id": 7
+    },
+    {
+      "id": 35,
+      "nombre": "brader salad",
+      "descripcion": "mix of greens, tomato, cheese flakes, chicken, and croutons. Recommended beer to accompany: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18622.jpg",
+      "precio": "$4500.00",
+      "categoria_id": 8
+    },
+    {
+      "id": 36,
+      "nombre": "baruc salad",
+      "descripcion": "arugula, purple onion, tomato, raw ham, and sardo cheese. Recommended beer to accompany: mexican lager/juicy ipa/old ale/old barrel",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18623.jpg",
+      "precio": "$5400.00",
+      "categoria_id": 8
+    },
+    {
+      "id": 37,
+      "nombre": "avocado salad",
+      "descripcion": "avocado, arugula, lettuce, tomato, and cheese. Recommended beer to accompany: mexican lager/old barrel",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18624.jpg",
+      "precio": "$6600.00",
+      "categoria_id": 8
+    },
+    {
+      "id": 38,
+      "nombre": "special cheese and cold cuts platter",
+      "descripcion": "only available at the bar. four varieties of cheeses, four varieties of cold cuts, olives. Recommended beer to accompany: mexican lager/old barrel/old ale/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18629.jpg",
+      "precio": "$13000.00",
+      "categoria_id": 9
+    },
+    {
+      "id": 39,
+      "nombre": "gluten-free galaxy burger",
+      "descripcion": "double meat patty, galaxy sauce, purple onion rings, cheddar, and bacon. served with lettuce and tomato salad",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18600.jpg",
+      "precio": "$7100.00",
+      "categoria_id": 10
+    },
+    {
+      "id": 40,
+      "nombre": "gluten-free thorin burger",
+      "descripcion": "double meat patty, cooked ham, tybo cheese, avocado cream, tomato, and onion. served with lettuce and tomato salad",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18602.jpg",
+      "precio": "$7100.00",
+      "categoria_id": 10
+    },
+    {
+      "id": 41,
+      "nombre": "gluten-free calypso sirloin",
+      "descripcion": "beef, cheddar, caramelized onion, egg, bacon, and arugula. served with lettuce and tomato salad",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/20771.jpg",
+      "precio": "$9500.00",
+      "categoria_id": 10
+    },
+    {
+      "id": 42,
+      "nombre": "gluten-free vegetarian sandwich",
+      "descripcion": "arugula, mozzarella cheese, and oven-baked vegetables",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18617.jpg",
+      "precio": "$5700.00",
+      "categoria_id": 10
+    },
+    {
+      "id": 43,
+      "nombre": "brader gin and tonic",
+      "descripcion": "Blend of gins, Heraclitus London dry and Macedonio, tonic water. Accompany it with citrus fruits, fresh herbs, cucumber, or mixed peppers.",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18634.jpg",
+      "precio": "$4300.00",
+      "categoria_id": 11
+    },
+    {
+      "id": 44,
+      "nombre": "BELTRAN AND BIRITOS",
+      "descripcion": "Blend of gins, Heraclitus London Dry and Macedonio, sour mix of syrup and citrus juices, splash of Extra Brut sparkling wine.",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18635.jpg",
+      "precio": "$4000.00",
+      "categoria_id": 11
+    },
+    {
+      "id": 45,
+      "nombre": "GIN BASIL SMASH",
+      "descripcion": "Gin Tanqueray London Dry, fresh basil, sour mix of syrup and lemon juice.",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18636.jpg",
+      "precio": "$4000.00",
+      "categoria_id": 11
+    },
+    {
+      "id": 46,
+      "nombre": "THE WALKER SOUR",
+      "descripcion": "Johnnie Walker Red Label, sour syrup and lemon juice mix, touch of mixed peppers.",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18643.jpg",
+      "precio": "$4000.00",
+      "categoria_id": 11
+    },
+    {
+      "id": 47,
+      "nombre": "VEGETARIAN PIZZA",
+      "descripcion": "Tomato sauce, mozzarella cheese, sautéed seasonal vegetables, arugula, and olives. Recommended beer to accompany: Mexican Lager/Old Ale/Old Barrel",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18584.jpg",
+      "precio": "$7400.00",
+      "categoria_id": 12
+    },
+    {
+      "id": 48,
+      "nombre": "VEGETARIAN SANDWICH",
+      "descripcion": "Arugula, mozzarella cheese, and oven-baked vegetables. Recommended beer to accompany: Mexican Lager",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18616.jpg",
+      "precio": "$5300.00",
+      "categoria_id": 12
+    },
+    {
+      "id": 49,
+      "nombre": "VEGETARIAN BRUSCHETTA",
+      "descripcion": "Seasonal vegetables, mozzarella cheese, and arugula. Recommended beer to accompany: Mexican Lager/Old Ale",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18625.jpg",
+      "precio": "$3700.00",
+      "categoria_id": 12
+    },
+    {
+      "id": 50,
+      "nombre": "chocotorta",
+      "descripcion": "Recommended beer to accompany: Old Ale",
+      "imagen": "https://media.istockphoto.com/id/1327623325/es/foto/chocotorta-casera.jpg?s=612x612&w=0&k=20&c=T0Q87R2JAW8Kl3x6c_mC2H-zk4rEW_rz-29EBfZrbAM=",
+      "precio": "$2200.00",
+      "categoria_id": 13
+    },
+    {
+      "id": 51,
+      "nombre": "CHEESECAKE WITH RED BERRIES",
+      "descripcion": "Recommended beer to accompany: Old Ale",
+      "imagen": "https://media.istockphoto.com/id/515447912/es/foto/cheesecake-de-ar%C3%A1ndanos.jpg?s=612x612&w=0&k=20&c=pXL2y5-tCSkB3hNBD51eB9_Z9SEwD3BiG0LQIFMnX_A=",
+      "precio": "$2200.00",
+      "categoria_id": 13
+    },
+    {
+      "id": 52,
+      "nombre": "CHOCO OREO",
+      "descripcion": "Recommended beer to accompany: Old Barrel.",
+      "imagen": "https://img-global.cpcdn.com/recipes/2dd9cd9c51ea503e/680x482cq70/torta-choco-oreo-foto-principal.jpg",
+      "precio": "$2200.00",
+      "categoria_id": 13
+    },
+    {
+      "id": 53,
+      "nombre": "coca cola",
+      "descripcion": "",
+      "imagen": "https://cdn-3.expansion.mx/dims4/default/bc1bdf5/2147483647/strip/true/crop/2096x1430+0+0/resize/600x409!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F95%2F6c%2F722abfb544dcb4a46b9ca967a1ef%2Fistock-499925476.jpg",
+      "precio": "$1200.00",
+      "categoria_id": 14
+    },
+    {
+      "id": 54,
+      "nombre": "fanta",
+      "descripcion": "",
+      "imagen": "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/tiktok/fanta_old_logo_refresh.jpg?auto_optimize=medium",
+      "precio": "$1200.00",
+      "categoria_id": 14
+    },
+    {
+      "id": 55,
+      "nombre": "sprite",
+      "descripcion": "",
+      "imagen": "https://www.coca-cola.com/content/dam/onexp/uy/es/brands/sprite/es_sprite_header01_desktop_1440x810_v1.jpg",
+      "precio": "$1200.00",
+      "categoria_id": 14
+    },
+    {
+      "id": 56,
+      "nombre": "mineral water",
+      "descripcion": "",
+      "imagen": "https://institutoaguaysalud.es/wp-content/uploads/2019/10/FOTO-PORTADA.jpg",
+      "precio": "$1200.00",
+      "categoria_id": 14
+    },
+    {
+      "id": 57,
+      "nombre": "common half pint",
+      "descripcion": "250ml glass",
+      "imagen": "https://media.istockphoto.com/id/480775284/es/foto/vuelo-de-cerveza-artesanal.jpg?s=612x612&w=0&k=20&c=_B4pm-IazbYcptApvifgq_OUmkrKJ5fwZt7ga-wC490=",
+      "precio": "$1300.00",
+      "categoria_id": 15
+    },
+    {
+      "id": 58,
+      "nombre": "special half pint",
+      "descripcion": "250ml glass",
+      "imagen": "https://media.istockphoto.com/id/480775284/es/foto/vuelo-de-cerveza-artesanal.jpg?s=612x612&w=0&k=20&c=_B4pm-IazbYcptApvifgq_OUmkrKJ5fwZt7ga-wC490=",
+      "precio": "$1600.00",
+      "categoria_id": 15
+    },
+    {
+      "id": 59,
+      "nombre": "pint",
+      "descripcion": "500ml glass",
+      "imagen": "https://media.istockphoto.com/id/480775284/es/foto/vuelo-de-cerveza-artesanal.jpg?s=612x612&w=0&k=20&c=_B4pm-IazbYcptApvifgq_OUmkrKJ5fwZt7ga-wC490=",
+      "precio": "$2100.00",
+      "categoria_id": 15
+    },
+    {
+      "id": 60,
+      "nombre": "special pint",
+      "descripcion": "500ml glass",
+      "imagen": "https://media.istockphoto.com/id/480775284/es/foto/vuelo-de-cerveza-artesanal.jpg?s=612x612&w=0&k=20&c=_B4pm-IazbYcptApvifgq_OUmkrKJ5fwZt7ga-wC490=",
+      "precio": "$2500.00",
+      "categoria_id": 15
+    }
+  ],
+  "categoriesEnglish": [
+    {
+      "id": 1,
+      "nombre": "French Fries",
+      "icono": "https://cdn-icons-png.flaticon.com/128/605/605302.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Appetizers",
+      "icono": "https://cdn-icons-png.flaticon.com/128/2515/2515241.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Bruschettas",
+      "icono": "https://cdn-icons-png.flaticon.com/128/5621/5621800.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Pizzas",
+      "icono": "https://cdn-icons-png.flaticon.com/128/3595/3595458.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Sandwiches",
+      "icono": "https://cdn-icons-png.flaticon.com/128/12663/12663607.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Steaks",
+      "icono": "https://cdn-icons-png.flaticon.com/128/12663/12663607.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Burguers",
+      "icono": "https://cdn-icons-png.flaticon.com/128/1858/1858002.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Salads",
+      "icono": "https://cdn-icons-png.flaticon.com/128/2515/2515183.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Platters",
+      "icono": "https://cdn-icons-png.flaticon.com/128/2515/2515241.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Gluten-Free",
+      "icono": "https://cdn-icons-png.flaticon.com/128/9485/9485387.png"
+    },
+    {
+      "id": 11,
+      "nombre": "Cocktails",
+      "icono": "https://cdn-icons-png.flaticon.com/128/1651/1651813.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Veggie",
+      "icono": "https://cdn-icons-png.flaticon.com/128/9862/9862055.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Desserts",
+      "icono": "https://cdn-icons-png.flaticon.com/128/3173/3173494.png"
+    },
+    {
+      "id": 14,
+      "nombre": "Soft Drinks",
+      "icono": "https://cdn-icons-png.flaticon.com/128/1046/1046782.png"
+    },
+    {
+      "id": 15,
+      "nombre": "Beers",
+      "icono": "https://cdn-icons-png.flaticon.com/128/1087/1087972.png"
+    }
+  ],
+  "foodsItaliano": [
+    {
+      "id": 1,
+      "nombre": "GRANDES",
+      "descripcion": "Le classiche di sempre, birra consigliata per accompagnare: Mexican Lager/Juicy IPA",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18575.jpg",
+      "precio": "$4800,00",
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Cheddar e pancetta",
+      "descripcion": "Birra consigliata per accompagnare: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18580.jpg",
+      "precio": "$6100,00",
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "BRADER",
+      "descripcion": "Con formaggio mozzarella, pancetta e uovo strapazzato. Birra consigliata per accompagnare: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18581.jpg",
+      "precio": "$6000,00",
+      "categoria_id": 1
+    },
+    {
+      "id": 4,
+      "nombre": "lemondrop",
+      "descripcion": "Cheddar e cipollotto. Birra consigliata per accompagnare: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18576.jpg",
+      "precio": "$6000,00",
+      "categoria_id": 1
+    },
+    {
+      "id": 5,
+      "nombre": "al verdeo",
+      "descripcion": "Con crema di cipollotto. Birra consigliata per accompagnare: mexican lager/hoppy lager",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18577.jpg",
+      "precio": "$5100,00",
+      "categoria_id": 1
+    },
+    {
+      "id": 6,
+      "nombre": "papas hops",
+      "descripcion": "Provolone, pategrás, sardo, mozzarella, salsa bianca e dadini di prosciutto crudo. Birra consigliata per accompagnare: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18582.jpg",
+      "precio": "$6100,00",
+      "categoria_id": 1
+    },
+    {
+      "id": 7,
+      "nombre": "ferroviarias",
+      "descripcion": "Con saltato di peperoni e cipolla, formaggio mozzarella e uovo strapazzato. Birra consigliata per accompagnare: old ale/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18578.jpg",
+      "precio": "$5300,00",
+      "categoria_id": 1
+    },
+    {
+      "id": 8,
+      "nombre": "salchipapa",
+      "descripcion": "Con salsicce, cipolla caramellata, cheddar e barbecue. Birra consigliata per accompagnare: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18579.jpg",
+      "precio": "$6100,00",
+      "categoria_id": 1
+    },
+    {
+      "id": 9,
+      "nombre": "bastoncini di mozzarella",
+      "descripcion": "Con maionese all'aglio e barbecue. Birra consigliata per accompagnare: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18987.jpg",
+      "precio": "$5300,00",
+      "categoria_id": 2
+    },
+    {
+      "id": 10,
+      "nombre": "dita di pollo croccanti",
+      "descripcion": "Con barbecue e salsa di senape e miele. Birra consigliata per accompagnare: old barrel/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18988.jpg",
+      "precio": "$4400,00",
+      "categoria_id": 2
+    },
+    {
+      "id": 11,
+      "nombre": "empanada brader",
+      "descripcion": "Formaggio blu, pategras, provolone, sardo e cipollotto. Birra consigliata per accompagnare: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18620.jpg",
+      "precio": "$1400,00",
+      "categoria_id": 2
+    },
+    {
+      "id": 12,
+      "nombre": "empanada di carne",
+      "descripcion": "Birra consigliata per accompagnare: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18621.jpg",
+      "precio": "$1400,00",
+      "categoria_id": 2
+    },
+    {
+      "id": 13,
+      "nombre": "empanada jamón e formaggio",
+      "descripcion": "Birra consigliata per accompagnare: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18619.jpg",
+      "precio": "$1400,00",
+      "categoria_id": 2
+    },
+    {
+      "id": 14,
+      "nombre": "serrana",
+      "descripcion": "Prosciutto crudo, rucola e scaglie di formaggio. Birra consigliata per accompagnare: mexican lager",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18627.jpg",
+      "precio": "$4200,00",
+      "categoria_id": 3
+    },
+    {
+      "id": 15,
+      "nombre": "pollo",
+      "descripcion": "Pollo saltato con peperoni e olive. Birra consigliata per accompagnare: mexican lager/old ale/old barrel/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18626.jpg",
+      "precio": "$3900,00",
+      "categoria_id": 3
+    },
+    {
+      "id": 16,
+      "nombre": "uovo e avocado",
+      "descripcion": "Crema di avocado, uovo strapazzato, mozzarella, pancetta e olio d'oliva. Birra consigliata per accompagnare: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18628.jpg",
+      "precio": "$5300,00",
+      "categoria_id": 3
+    },
+    {
+      "id": 17,
+      "nombre": "mozzarella",
+      "descripcion": "Salsa di pomodoro, formaggio mozzarella e olive. Birra consigliata per accompagnare: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18583.jpg",
+      "precio": "$6800,00",
+      "categoria_id": 4
+    },
+    {
+      "id": 18,
+      "nombre": "speciale",
+      "descripcion": "Salsa di pomodoro, formaggio mozzarella, prosciutto cotto, peperoni e olive. Birra consigliata per accompagnare: mexican lager/old ale/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18585.jpg",
+      "precio": "$8200,00",
+      "categoria_id": 4
+    },
+    {
+      "id": 19,
+      "nombre": "quattro formaggi",
+      "descripcion": "Salsa di pomodoro, formaggio mozzarella, sardo, blu, provolone, pategras e olive. Birra consigliata per accompagnare: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18586.jpg",
+      "precio": "$7400,00",
+      "categoria_id": 4
+    },
+    {
+      "id": 20,
+      "nombre": "mediterranea",
+      "descripcion": "Salsa di pomodoro, formaggio mozzarella, prosciutto crudo, scaglie di formaggio, rucola e olive. Birra consigliata per accompagnare: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18587.jpg",
+      "precio": "$8300,00",
+      "categoria_id": 4
+    },
+    {
+      "id": 21,
+      "nombre": "fugazza",
+      "descripcion": "mozzarella, cipolla, olive, olive. Birra consigliata per accompagnare: mexican lager/old ale/old barrel",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/19961.jpg",
+      "precio": "$7400,00",
+      "categoria_id": 4
+    },
+    {
+      "id": 22,
+      "nombre": "caprese",
+      "descripcion": "mozzarella, pomodoro, olive, basilico, olive. Birra consigliata per accompagnare: mexican lager/old ale",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/19962.jpg",
+      "precio": "$7400,00",
+      "categoria_id": 4
+    },
+    {
+      "id": 23,
+      "nombre": "pizza brader",
+      "descripcion": "mozzarella, formaggio blu, pesto e olive. Birra consigliata per accompagnare: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/19963.jpg",
+      "precio": "$7900,00",
+      "categoria_id": 4
+    },
+    {
+      "id": 24,
+      "nombre": "serrano",
+      "descripcion": "rucola, pomodoro a fette, prosciutto crudo e scaglie di formaggio. Birra consigliata per accompagnare: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18618.jpg",
+      "precio": "$5300,00",
+      "categoria_id": 5
+    },
+    {
+      "id": 25,
+      "nombre": "frodo",
+      "descripcion": "carne o pollo, mozzarella, pancetta, crema di avocado, lattuga e pomodoro. Birra consigliata per accompagnare: mexican lager/juicy ipa. viene con patatine",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18594.jpg",
+      "precio": "$10000,00",
+      "categoria_id": 6
+    },
+    {
+      "id": 26,
+      "nombre": "gollum",
+      "descripcion": "carne o pollo, prosciutto cotto, formaggio tybo, uovo, salsa criolla, lattuga e pomodoro. Birra consigliata per accompagnare: mexican lager/old ale. viene con patatine",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18588.jpg",
+      "precio": "$9000,00",
+      "categoria_id": 6
+    },
+    {
+      "id": 27,
+      "nombre": "sauron",
+      "descripcion": "carne o pollo, formaggio blu, pategrás, provolone, sardo, tybo, uovo, salsa di pomodoro e rucola. Birra consigliata per accompagnare: juicy ipa. viene con patatine",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18590.jpg",
+      "precio": "$9000,00",
+      "categoria_id": 6
+    },
+    {
+      "id": 28,
+      "nombre": "pipin",
+      "descripcion": "carne o pollo, formaggio tybo, pancetta, uovo, salsa di pomodoro, lattuga e peperoni saltati. Birra consigliata per accompagnare: old ale. viene con patatine",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18592.jpg",
+      "precio": "$9000,00",
+      "categoria_id": 6
+    },
+    {
+      "id": 29,
+      "nombre": "calypso",
+      "descripcion": "carne, cheddar, cipolla caramellata, uovo, pancetta e rucola. Birra consigliata per accompagnare: old ale",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/19965.jpg",
+      "precio": "$9000,00",
+      "categoria_id": 6
+    },
+    {
+      "id": 30,
+      "nombre": "brader",
+      "descripcion": "doppio medaglione di carne, formaggio blu, crema di avocado e salsa criolla. Birra consigliata per accompagnare: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18605.jpg",
+      "precio": "$6400,00",
+      "categoria_id": 7
+    },
+    {
+      "id": 31,
+      "nombre": "american brader",
+      "descripcion": "doppio medaglione di carne, cheddar e pancetta. Birra consigliata per accompagnare: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18601.jpg",
+      "precio": "$6400,00",
+      "categoria_id": 7
+    },
+    {
+      "id": 32,
+      "nombre": "thorin",
+      "descripcion": "doppio medaglione di carne, prosciutto cotto, formaggio tybo, crema di avocado, pomodoro e cipolla. Birra consigliata per accompagnare: mexican lager/old barrel/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18603.jpg",
+      "precio": "$6400,00",
+      "categoria_id": 7
+    },
+    {
+      "id": 33,
+      "nombre": "la 4:20",
+      "descripcion": "doppio medaglione di carne, salsa galaxy, anelli di cipolla rossa e pomodoro. Birra consigliata per accompagnare: juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18603.jpg",
+      "precio": "$6400,00",
+      "categoria_id": 7
+    },
+    {
+      "id": 34,
+      "nombre": "galaxy",
+      "descripcion": "doppio medaglione di carne, salsa galaxy, anelli di cipolla, cheddar e pancetta. Birra consigliata per accompagnare: old ale/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18598.jpg",
+      "precio": "$6400,00",
+      "categoria_id": 7
+    },
+    {
+      "id": 35,
+      "nombre": "insalata brader",
+      "descripcion": "mix di verdure, pomodoro, scaglie di formaggio, pollo e croutons. Birra consigliata per accompagnare: mexican lager/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18622.jpg",
+      "precio": "$4500,00",
+      "categoria_id": 8
+    },
+    {
+      "id": 36,
+      "nombre": "insalata baruc",
+      "descripcion": "rucola, cipolla rossa, pomodoro, prosciutto crudo e formaggio sardo. Birra consigliata per accompagnare: mexican lager/juicy ipa/old ale/old barrel",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18623.jpg",
+      "precio": "$5400,00",
+      "categoria_id": 8
+    },
+    {
+      "id": 37,
+      "nombre": "avocado",
+      "descripcion": "avocado, rucola, lattuga, pomodoro e formaggio. Birra consigliata per accompagnare: mexican lager/old barrel",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18624.jpg",
+      "precio": "$6600,00",
+      "categoria_id": 8
+    },
+    {
+      "id": 38,
+      "nombre": "speciale di formaggi e salumi",
+      "descripcion": "disponibile solo al bar. quattro varietà di formaggi, quattro varietà di salumi, olive. Birra consigliata per accompagnare: mexican lager/old barrel/old ale/juicy ipa",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18629.jpg",
+      "precio": "$13000,00",
+      "categoria_id": 9
+    },
+    {
+      "id": 39,
+      "nombre": "hamburger galaxy senza glutine",
+      "descripcion": "doppio medaglione di carne, salsa galaxy, anelli di cipolla rossa, cheddar e pancetta. viene servito con insalata di lattuga e pomodoro",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18600.jpg",
+      "precio": "$7100,00",
+      "categoria_id": 10
+    },
+    {
+      "id": 40,
+      "nombre": "hamburger thorin senza glutine",
+      "descripcion": "doppio medaglione di carne, prosciutto cotto, formaggio tybo, crema di avocado, pomodoro e cipolla. viene servito con insalata di lattuga e pomodoro",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18602.jpg",
+      "precio": "$7100,00",
+      "categoria_id": 10
+    },
+    {
+      "id": 41,
+      "nombre": "filetto calypso senza glutine",
+      "descripcion": "carne, cheddar, cebolla caramelizada, huevo, panceta e rucola. viene servito con insalata di lattuga e pomodoro",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/20771.jpg",
+      "precio": "$9500,00",
+      "categoria_id": 10
+    },
+    {
+      "id": 42,
+      "nombre": "panino vegetariano senza glutine",
+      "descripcion": "rucola, mozzarella e verdure al forno",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18617.jpg",
+      "precio": "$5700,00",
+      "categoria_id": 10
+    },
+    {
+      "id": 43,
+      "nombre": "gin tonic del brader",
+      "descripcion": "Blend di gin, Heraclito London Dry e Macedonio, acqua tonica. Accompagnalo con agrumi, erbe fresche, cetriolo o mix di pepe.",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18634.jpg",
+      "precio": "$4300,00",
+      "categoria_id": 11
+    },
+    {
+      "id": 44,
+      "nombre": "BELTRAN E BIRITOS",
+      "descripcion": "Blend di gin, Heraclito London Dry e Macedonio, sour mix di sciroppo e succhi di agrumi, spruzzo di spumante Extra Brut.",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18635.jpg",
+      "precio": "$4000,00",
+      "categoria_id": 11
+    },
+    {
+      "id": 45,
+      "nombre": "GIN BASIL SMASH",
+      "descripcion": "Gin Tanqueray London Dry, basilico fresco, sour mix di sciroppo e succo di limone.",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18636.jpg",
+      "precio": "$4000,00",
+      "categoria_id": 11
+    },
+    {
+      "id": 46,
+      "nombre": "EL CAMINANTE SOUR",
+      "descripcion": "Johnnie Walker Red Label, sour mix di sciroppo e succo di limone, tocco di mix di pepe.",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18643.jpg",
+      "precio": "$4000,00",
+      "categoria_id": 11
+    },
+    {
+      "id": 47,
+      "nombre": "pizza vegetariana",
+      "descripcion": "Salsa di pomodoro, mozzarella, verdure saltate della stagione, rucola e olive. Birra consigliata per accompagnare: Mexican Lager/Old Ale/Old Barrel",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18584.jpg",
+      "precio": "$7400,00",
+      "categoria_id": 12
+    },
+    {
+      "id": 48,
+      "nombre": "panino vegetariano",
+      "descripcion": "Rucola, mozzarella e verdure al forno. Birra consigliata per accompagnare: Mexican Lager",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18616.jpg",
+      "precio": "$5300,00",
+      "categoria_id": 12
+    },
+    {
+      "id": 49,
+      "nombre": "bruschetta vegetariana",
+      "descripcion": "Verdure della stagione, mozzarella e rucola. Birra consigliata per accompagnare: Mexican Lager/Old Ale",
+      "imagen": "https://ipage.ar/cartaonline/img/productos/18625.jpg",
+      "precio": "$3700,00",
+      "categoria_id": 12
+    },
+    {
+      "id": 50,
+      "nombre": "chocotorta",
+      "descripcion": "Birra consigliata per accompagnare: Old Ale",
+      "imagen": "https://media.istockphoto.com/id/1327623325/es/foto/chocotorta-casera.jpg?s=612x612&w=0&k=20&c=T0Q87R2JAW8Kl3x6c_mC2H-zk4rEW_rz-29EBfZrbAM=",
+      "precio": "$2200,00",
+      "categoria_id": 13
+    },
+    {
+      "id": 51,
+      "nombre": "cheesecake con frutti rossi",
+      "descripcion": "Birra consigliata per accompagnare: Old Ale",
+      "imagen": "https://media.istockphoto.com/id/515447912/es/foto/cheesecake-de-ar%C3%A1ndanos.jpg?s=612x612&w=0&k=20&c=pXL2y5-tCSkB3hNBD51eB9_Z9SEwD3BiG0LQIFMnX_A=",
+      "precio": "$2200,00",
+      "categoria_id": 13
+    },
+    {
+      "id": 52,
+      "nombre": "CHOCO OREO",
+      "descripcion": "Birra consigliata per accompagnare: Old Barrel.",
+      "imagen": "https://img-global.cpcdn.com/recipes/2dd9cd9c51ea503e/680x482cq70/torta-choco-oreo-foto-principal.jpg",
+      "precio": "$2200,00",
+      "categoria_id": 13
+    },
+    {
+      "id": 53,
+      "nombre": "coca cola",
+      "descripcion": "",
+      "imagen": "https://cdn-3.expansion.mx/dims4/default/bc1bdf5/2147483647/strip/true/crop/2096x1430+0+0/resize/600x409!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F95%2F6c%2F722abfb544dcb4a46b9ca967a1ef%2Fistock-499925476.jpg",
+      "precio": "$1200,00",
+      "categoria_id": 14
+    },
+    {
+      "id": 54,
+      "nombre": "fanta",
+      "descripcion": "",
+      "imagen": "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/tiktok/fanta_old_logo_refresh.jpg?auto_optimize=medium",
+      "precio": "$1200,00",
+      "categoria_id": 14
+    },
+    {
+      "id": 55,
+      "nombre": "sprite",
+      "descripcion": "",
+      "imagen": "https://www.coca-cola.com/content/dam/onexp/uy/es/brands/sprite/es_sprite_header01_desktop_1440x810_v1.jpg",
+      "precio": "$1200,00",
+      "categoria_id": 14
+    },
+    {
+      "id": 56,
+      "nombre": "acqua minerale",
+      "descripcion": "",
+      "imagen": "https://institutoaguaysalud.es/wp-content/uploads/2019/10/FOTO-PORTADA.jpg",
+      "precio": "$1200,00",
+      "categoria_id": 14
+    },
+    {
+      "id": 57,
+      "nombre": "mezza pinta comune",
+      "descripcion": "bicchiere da 250ml",
+      "imagen": "https://media.istockphoto.com/id/480775284/es/foto/vuelo-de-cerveza-artesanal.jpg?s=612x612&w=0&k=20&c=_B4pm-IazbYcptApvifgq_OUmkrKJ5fwZt7ga-wC490=",
+      "precio": "$1300,00",
+      "categoria_id": 15
+    },
+    {
+      "id": 58,
+      "nombre": "mezza pinta speciale",
+      "descripcion": "bicchiere da 250ml",
+      "imagen": "https://media.istockphoto.com/id/480775284/es/foto/vuelo-de-cerveza-artesanal.jpg?s=612x612&w=0&k=20&c=_B4pm-IazbYcptApvifgq_OUmkrKJ5fwZt7ga-wC490=",
+      "precio": "$1600,00",
+      "categoria_id": 15
+    },
+    {
+      "id": 59,
+      "nombre": "pinta",
+      "descripcion": "bicchiere da 500ml",
+      "imagen": "https://media.istockphoto.com/id/480775284/es/foto/vuelo-de-cerveza-artesanal.jpg?s=612x612&w=0&k=20&c=_B4pm-IazbYcptApvifgq_OUmkrKJ5fwZt7ga-wC490=",
+      "precio": "$2100,00",
+      "categoria_id": 15
+    },
+    {
+      "id": 60,
+      "nombre": "pinta speciale",
+      "descripcion": "bicchiere da 500ml",
+      "imagen": "https://media.istockphoto.com/id/480775284/es/foto/vuelo-de-cerveza-artesanal.jpg?s=612x612&w=0&k=20&c=_B4pm-IazbYcptApvifgq_OUmkrKJ5fwZt7ga-wC490=",
+      "precio": "$2500,00",
+      "categoria_id": 15
+    }
+  ],
+  "categoriesItaliano": [
+    {
+      "id": 1,
+      "nombre": "Papatine Fritte",
+      "icono": "https://cdn-icons-png.flaticon.com/128/605/605302.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Per Antipasto",
+      "icono": "https://cdn-icons-png.flaticon.com/128/2515/2515241.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Bruschette",
+      "icono": "https://cdn-icons-png.flaticon.com/128/5621/5621800.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Pizze",
+      "icono": "https://cdn-icons-png.flaticon.com/128/3595/3595458.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Panini",
+      "icono": "https://cdn-icons-png.flaticon.com/128/12663/12663607.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Panini Lomos",
+      "icono": "https://cdn-icons-png.flaticon.com/128/12663/12663607.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Hamburguer",
+      "icono": "https://cdn-icons-png.flaticon.com/128/1858/1858002.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Insalate",
+      "icono": "https://cdn-icons-png.flaticon.com/128/2515/2515183.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Taglieri",
+      "icono": "https://cdn-icons-png.flaticon.com/128/2515/2515241.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Senza Glutine",
+      "icono": "https://cdn-icons-png.flaticon.com/128/9485/9485387.png"
+    },
+    {
+      "id": 11,
+      "nombre": "Cocktail",
+      "icono": "https://cdn-icons-png.flaticon.com/128/1651/1651813.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Veggie",
+      "icono": "https://cdn-icons-png.flaticon.com/128/9862/9862055.png"
+    },
+    {
+      "id": 13,
+      "nombre": "Dolci",
+      "icono": "https://cdn-icons-png.flaticon.com/128/3173/3173494.png"
+    },
+    {
+      "id": 14,
+      "nombre": "Bevande Gassate",
+      "icono": "https://cdn-icons-png.flaticon.com/128/1046/1046782.png"
+    },
+    {
+      "id": 15,
+      "nombre": "Birre",
       "icono": "https://cdn-icons-png.flaticon.com/128/1087/1087972.png"
     }
   ]
